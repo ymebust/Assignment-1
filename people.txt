@@ -1,0 +1,9 @@
+fname=jason:lname=johnson:food=pizza:color=blue:game=monopoly:lang=C
+food=hamburger:game=blackjack:fname=george:lang=PHP:lname=Dobson:color=red
+color=blue:lang=Perl:food=taco:lname=holmes:fname=joe:game=slots
+game=blackjack:color=yellow:fname=daniel:lang=C:food=taco:lname=forbes
+lname=wilson:color=blue:food=pizza:lang=C:fname=jonathon:game=blackjack
+game=monopoly:food=pizza:lang=PHP:lname=mortonson:fname=jill:color=red
+lname=johnson:fname=holly:lang=C:food=taco:color=yellow:game=slots
+lang=Perl:food=hamburger:lname=floden:fname=ashley:color=blue:game=monopoly
+lang=PHP:food=pizza:fname=josh:color=red:game=slots:lname=nelson
